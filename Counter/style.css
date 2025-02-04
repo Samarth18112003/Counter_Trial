@@ -1,0 +1,14 @@
+.heading{
+    color: blue;
+}
+#heading1{
+    color: red;
+}
+button{
+    background-color: rgb(128, 0, 128);
+    color: white;
+    border: 3px solid #0000009e;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
